@@ -1,0 +1,12 @@
+[
+  {
+    "repository": "AICP/kernel_asus_fugu",
+    "target_path": "kernel/asus/fugu",
+    "branch":     "mm6.0"
+  },
+  {
+   "repository":  "AICP/proprietary_vendor_asus",
+   "target_path": "vendor/asus",
+   "branch":      "mm6.0"
+  }
+]
